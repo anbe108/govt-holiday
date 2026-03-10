@@ -10,7 +10,10 @@ For easy calendar integration across various ICS/iCal supported calendar platfor
 - **Choose a Compatible App** : Select any calendar application that supports iCal (ICS) format. Most  modern calendar apps include this feature, including Google Calendar,  Outlook, Apple Calendar, and many others in Windows/Mac/Linux/Android/iPhone.
 - **Add the Calendar** : Open your chosen calendar application and locate the option to add or import a calendar.
 - **Enter the Calendar URL** In the relevant field, paste the following URL to integrate the West Bengal Government calendar into your app.
-- **For current year use this URL** : `https://raw.githubusercontent.com/anbe108/govt-holiday/refs/heads/main/current.ics` or [click here and copy the link](https://raw.githubusercontent.com/anbe108/govt-holiday/refs/heads/main/current.ics).
+- **For current year use this URL** : copy the following URL.
+```
+https://raw.githubusercontent.com/anbe108/govt-holiday/refs/heads/main/current.ics
+```
 
 ## Note
 

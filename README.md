@@ -20,6 +20,14 @@ https://raw.githubusercontent.com/anbe108/govt-holiday/refs/heads/main/current.i
 - WB Prefix means only WB Holiday.
 - Holidays falling on Sundays are also included.
 
+## Recommended for Android 
+- To import easily to Google Calendar app, install this Calendar Import-Export app from [FDroid Store](https://f-droid.org/packages/org.sufficientlysecure.ical/) or directly download APK from this [link](https://f-droid.org/repo/org.sufficientlysecure.ical_64.apk)
+- Open the Calendar Import-Export app.
+- Grant calendar permissions etc.
+- Select your Google or Local account from drop down menu.
+- Click `Import URL` paste the .ics url from above. Click ok.
+- Now open Google Calendar app and enjoy.
+
 ## Note
 
 - All info from Public Portals.

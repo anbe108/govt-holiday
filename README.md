@@ -15,6 +15,11 @@ For easy calendar integration across various ICS/iCal supported calendar platfor
 https://raw.githubusercontent.com/anbe108/govt-holiday/refs/heads/main/current.ics
 ```
 
+## Guide
+- NI Prefix means all India Holiday under Negotiable Instruments Act
+- WB Prefix means only WB Holiday.
+- Holidays falling on Sundays are also included.
+
 ## Note
 
 - All info from Public Portals.
